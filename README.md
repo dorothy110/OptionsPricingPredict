@@ -1,4 +1,4 @@
-# OptionsPricingPredict
+# Options Pricing Predict
 Second Prize: Gaussian Cup National College Students Mathematical Modeling Challenge 2020 
  - [paper(code in the end of the pages)](https://github.com/dorothy110/OptionsPricingPredict/blob/main/D%E7%BB%84-C%E9%A2%98.pdf)
  
